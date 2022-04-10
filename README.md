@@ -1,47 +1,54 @@
-## markdown-only
+ <center>
 
-> [**HERE**](https://aleen42.github.io/markdown-only/) you can check the site of this repo.
 
-This is a template repository to help you build sites with markdown files only and present them with GitHub styles on GitHub pages.
+<font style="font-size: 70px;" >Howdie Leute!</font>
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/waving-hand_1f44b.png" width="100px">
 
-To use this template:
+<font style="font-size: 43px;" >Ich wollte bei euch anfangen</font>
 
-1. Just start to [**GENERATE**](https://github.com/aleen42/markdown-only/generate) it. (Notice: you can also use it on the repository page on GitHub.)
-2. Deploy the GitHub page inside the setting of your new repository.
-3. Feel free to write your first markdown file: **README.md**.
 
-### Examples
+<a > <img width ='100%'  height ='5px' src ='https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/large-blue-square_1f7e6.png'> </a>
 
-<p align="center">
-<a href="https://mingtocat.aleen42.com" target="_blank"><img width="40%" src="./examples/mingtocat.aleen42.com_dark.png" alt="markdown-only" /></a> <a href="https://mingtocat.aleen42.com" target="_blank"><img width="40%" src="examples/mingtocat.aleen42.com_light.png" alt="markdown-only" /></a>
-</p>
 
-### Variables
 
-Current supported configure variables of this theme:
+# Werdegang:
 
-- **`color-mode`**: specify the light / dark mode you intent to use. (`dark` by default)
-- **`theme-color`**: specify the theme color meta. (`#1e2327` by default)
+| <font style="font-size: 40px;" >Training</font> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/hatching-chick_1f423.png" width="100px"> |<font style="font-size: 40px;" >Early </font> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/front-facing-baby-chick_1f425.png" width="100px">  | <font style="font-size: 40px;" >Recent </font> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/eagle_1f985.png" width="100px">|
+:--- | :--- | :---|
+|Elektrotechnischer-Assistent|E-Commerce - Dropshipping - PrintOnDemand|Freelancing - Fiverr|
+|Architektur Studium|Ebay - [Getlinux ](https://www.ebay.de/usr/getlinux) - Amazon - B2B |Web/design - Wordpress - Photoshop/Krita - HTML/JS/CSS - Git|
+|[3D-Visualisierung ](https://prim4t.tumblr.com/post/137290910215)   |Daytrading|Marketing - GoogleAds/FacebookAds|
+|Integrationshelfer|Marketing - Google/FacebookAds - Influencer - SEO|Linux - Tux-Tage|
+|Übersetzungen - Deutsch/English|Company-Formations|Web3 - Crypto - Solidity - NFT|
 
-### FAQ
+</center>
 
-As we use jekyll to build sites, it should use [Rouge](https://github.com/rouge-ruby/rouge) to highlight syntax of code snippets and it is different from the highlighter of GitHub. It means that there should be various highlights of the same code like the following:
 
-```js
-const data = function () { 
-    // ...
-    return {
-        'markdown-only': { key: 'value'},
-    };
-};
-```
 
-To try to eliminate the differences, I will update [the adapter](https://github.com/aleen42/github-syntax-theme-generator) according to some situations.
+# Hobbys: 
+<font style="font-size: 50px;" > 🌳 🚲 🧘 🎶 📈 🍲 👾 🏛️ </font>
 
-### :fuelpump: How to contribute
 
-Have an idea? Found a bug? See [how to contribute](https://wiki.aleen42.com/contribution.html).
+# Leitspruch: 
 
-### :scroll: License
+<img src="https://www.pikpng.com/pngl/b/132-1325138_dark-side-600600-182-kb-emoji-darth-vader.png" width="50px">
+</center>
+> "Man braucht eine innere Haltung wie Darth Vader, Du darfst nicht zweifeln dass es umgesetzt wird..." 
+― Philipp, Senior Webentwickler bei [Giffits](https://wallhaven.cc/search?q=linux&categories=110&purity=100&sorting=relevance&order=&page=2)
 
-[MIT](https://wiki.aleen42.com/MIT.html) © aleen42
+
+
+
+
+# Vorschläge/Ideen/Anmerkungen:
+
+- Influencer Package - Angebot spezielle für Influencer
+- Influencer Videos Sponsorn 
+
+
+### Bugssuche 🐞🪲🐛
+- LinkedIn-Button auf der Homepage führt in leere bzw. 404
+- Grafikservice-Button auf der Homepage führt in leere bzw. 404
+
+<a > <img width ='100%'  height ='5px' src ='https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/large-blue-square_1f7e6.png'> </a>
+
