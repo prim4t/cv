@@ -13,8 +13,8 @@
 
 # Werdegang:
 
-| <font style="font-size: 40px;" >Training</font> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/hatching-chick_1f423.png" width="100px"> |<font style="font-size: 40px;" >Early </font> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/front-facing-baby-chick_1f425.png" width="100px">  | <font style="font-size: 40px;" >Recent </font> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/eagle_1f985.png" width="100px">|
-:--- | :--- | :---|
+| <font style="font-size: 40px;" >Training</font> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/hatching-chick_1f423.png" width="100px"> |<font style="font-size: 40px;" >Early </font> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/front-facing-baby-chick_1f425.png" width="100px">  | <font style="font-size: 40px;" >Recent </font> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/eagle_1f985.png" width="100px">
+|:--- | :--- | :---|
 |Elektrotechnischer-Assistent|E-Commerce - Dropshipping - PrintOnDemand|Freelancing - Fiverr|
 |Architektur Studium|Ebay - [Getlinux ](https://www.ebay.de/usr/getlinux) - Amazon - B2B |Web/design - Wordpress - Photoshop/Krita - HTML/JS/CSS - Git|
 |[3D-Visualisierung ](https://prim4t.tumblr.com/post/137290910215)   |Daytrading|Marketing - GoogleAds/FacebookAds|
